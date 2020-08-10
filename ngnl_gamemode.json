@@ -1,12 +1,8 @@
 {
 	"news": {
-		"image": {
-			"width": 200.0,
-			"source": "https://sun1.is74.userapi.com/impf/c855020/v855020189/167b/V7UcchzTwUc.jpg?size=200x0&quality=90&sign=f61fd27a8030d6effb46c79f36edcfea&ava=1",
-			"height": 200.0
-		},
-		"title": "Новости",
-		"subtitle": "Тут будут появляется глобальные новости"
+		"image": "http://pm1.narvii.com/7179/86e0d685dff199d61a9a3c39b80139e3365977a4r1-1080-1021v2_uhq.jpg",
+		"title": "Тут были новости",
+		"subtitle": "Картинка 700x440"
 	},
 	"staff": {
 		"STEAM_0:1:147893461": "Скриптер",
